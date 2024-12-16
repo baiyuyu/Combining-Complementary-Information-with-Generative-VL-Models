@@ -62,8 +62,9 @@ repo_name/
 ├── fromage/          # Scripts for running 2 experiments with the Fromage model.
 ├── idefics/          # Scripts for running 2 experiments with the Idefics model.
 ├── blip2/            # Scripts for conducting 2 experiments and performing data analysis for the BLIP2 model.
-├── requirements.txt  # List of dependencies
+├── requirements.txt  # List of dependencies.
 └── README.md         # Main documentation for the repository, including setup, usage instructions, and references.
+
 
 
 
