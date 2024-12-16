@@ -56,14 +56,14 @@ Place the dataset(s) in the data/ directory.
 
 ### Repository Structure
 
-repo_name/
-│
-├── mapl/             # Scripts for conducting 2 experiments with the MAPL model.
-├── fromage/          # Scripts for running 2 experiments with the Fromage model.
-├── idefics/          # Scripts for running 2 experiments with the Idefics model.
-├── blip2/            # Scripts for conducting 2 experiments and performing data analysis for the BLIP2 model.
-├── requirements.txt  # List of dependencies.
-└── README.md         # Main documentation for the repository, including setup, usage instructions, and references.
+repo_name/  
+├── mapl/               # Scripts for conducting 2 experiments with the MAPL model.  
+├── fromage/            # Scripts for running 2 experiments with the Fromage model.  
+├── idefics/            # Scripts for running 2 experiments with the Idefics model.  
+├── blip2/              # Scripts for conducting 2 experiments and performing data analysis for the BLIP2 model.  
+├── requirements.txt    # List of dependencies.  
+└── README.md           # Main documentation for the repository, including setup, usage instructions, and references.
+
 
 
 
